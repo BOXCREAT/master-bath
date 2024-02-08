@@ -1,0 +1,13 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 16
+
+## Media
+
+### Title
+panorama_8D08F734_874F_970E_41C7_3F4E8AF84FEE.label = master bath
